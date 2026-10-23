@@ -7,6 +7,15 @@ Source of truth: `controls/inputs/src/uploader/uploader.ts` in
 `syncfusion/ej2-javascript-ui-controls` (verified against the shipped
 `@syncfusion/ej2-inputs` build, v35.1.41).
 
+### Sources
+
+- **Primary TS source** — https://github.com/syncfusion/ej2-javascript-ui-controls/blob/master/controls/inputs/src/uploader/uploader.ts
+- **Model/types (TS)** — https://github.com/syncfusion/ej2-javascript-ui-controls/blob/master/controls/inputs/src/uploader/uploader-model.ts
+- **Public `.d.ts` declarations** — https://github.com/syncfusion/ej2-javascript-ui-controls/blob/master/controls/inputs/src/uploader/uploader.d.ts
+- **Spec tests (fixtures)** — https://github.com/syncfusion/ej2-javascript-ui-controls/blob/master/controls/inputs/spec/uploader.spec.ts
+- **Shipped npm package** — https://www.npmjs.com/package/@syncfusion/ej2-inputs (v35.1.41)
+- **Official documentation** — https://ej2.syncfusion.com/javascript/documentation/uploader/
+
 ---
 
 ## 1. `FileInfo.statusCode` — the file's lifecycle state
